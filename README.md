@@ -1,0 +1,2 @@
+# lognat
+logaritmo natural
